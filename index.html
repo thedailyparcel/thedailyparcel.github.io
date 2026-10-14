@@ -67,7 +67,9 @@ main { padding-block: 16px 24px; }
 .body { padding: 10px 10px 12px; display: flex; flex-direction: column; gap: 4px; flex: 1; min-width: 0; }
 .short { font-weight: 800; font-size: 15px; line-height: 1.2; margin: 0; overflow-wrap: anywhere; }
 .full { color: var(--muted); font-size: 11.5px; font-weight: 500; margin: 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-.buy { margin-top: auto; display: block; text-align: center; text-decoration: none; background: var(--orange); color: var(--orange-ink); font-weight: 800; font-size: 13.5px; border-radius: 10px; padding: 10px 8px; }
+.buy { margin-top: auto; display: block; text-align: center; text-decoration: none; background: var(--orange); color: var(--orange-ink); font-weight: 800; font-size: 13px; line-height: 1.25; border-radius: 10px; padding: 10px 8px; text-wrap: balance; }
+.tags { display: flex; flex-wrap: wrap; gap: 4px; margin: 2px 0 0; padding: 0; list-style: none; }
+.tags li { font-size: 10.5px; font-weight: 700; letter-spacing: .02em; color: var(--blue); border: 1px solid color-mix(in srgb, var(--blue) 45%, transparent); border-radius: 999px; padding: 2px 7px; }
 .buy:hover { filter: brightness(1.05); }
 .buy:focus-visible, .chip:focus-visible, .more:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
 .body .spacer { height: 6px; }
@@ -120,7 +122,7 @@ const newest = ALL.reduce((m, p) => (p.date > m ? p.date : m), "");
 const daysBetween = (a, b) => (new Date(a) - new Date(b)) / 864e5;
 ALL.forEach((p) => {
   p.isNew = newest && daysBetween(newest, p.date) <= 2;
-  p.words = norm([p.short, p.name, p.kw, (p.cats || []).join(" ")].join(" ")).split(" ").filter(Boolean).map(stem);
+  p.words = norm([p.short, p.name, p.kw, (p.cats || []).join(" "), (p.tags || []).join(" ")].join(" ")).split(" ").filter(Boolean).map(stem);
   p.shortWords = norm(p.short).split(" ").filter(Boolean).map(stem);
 });
 
@@ -175,9 +177,10 @@ function card(p) {
     </a>
     <div class="body">
       <h2 class="short">${esc(p.short)}</h2>
+      ${(p.tags || []).length ? `<ul class="tags">${p.tags.map((t) => `<li>🎁 ${esc(t)}</li>`).join("")}</ul>` : ""}
       <p class="full">${esc(p.name)}</p>
       <div class="spacer"></div>
-      <a class="buy" href="${esc(p.url)}" target="_blank" rel="sponsored nofollow noopener">Shop on Amazon</a>
+      <a class="buy" href="${esc(p.url)}" target="_blank" rel="sponsored nofollow noopener">See today's price on Amazon</a>
     </div>
   </article>`;
 }

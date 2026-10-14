@@ -8,6 +8,9 @@ window.PRODUCTS = [
    "Travel",
    "Gifts"
   ],
+  "tags": [
+   "Gift idea"
+  ],
   "kw": "jewelry box organizer necklace ring earrings Gifts For Her Jewelry Storage Travel Essentials Christmas Gifts Jewelry",
   "img": "https://m.media-amazon.com/images/I/71Ic7Zy2NHL._AC_SL500_.jpg",
   "url": "https://amzn.to/4jjqrQz"
@@ -21,6 +24,10 @@ window.PRODUCTS = [
    "Beauty",
    "Gifts"
   ],
+  "tags": [
+   "Stocking stuffer",
+   "Gift idea"
+  ],
   "kw": "lip gloss chapstick lip mask tint lips Gifts For Her Stocking Stuffers Laneige Beauty Gifts Beauty",
   "img": "https://m.media-amazon.com/images/I/612UcJQa1VL._AC_SL500_.jpg",
   "url": "https://amzn.to/4rYnYx4"
@@ -32,6 +39,9 @@ window.PRODUCTS = [
   "name": "CORATED African Net Sponge",
   "cats": [
    "Beauty"
+  ],
+  "tags": [
+   "Stocking stuffer"
   ],
   "kw": "exfoliating body scrubber shower loofah back scrub Stocking Stuffers Shower Routine Self Care Viral Finds Beauty",
   "img": "https://m.media-amazon.com/images/I/81pus3PX53L._AC_SL500_.jpg",
@@ -46,6 +56,10 @@ window.PRODUCTS = [
    "Beauty",
    "Gifts"
   ],
+  "tags": [
+   "Stocking stuffer",
+   "Gift idea"
+  ],
   "kw": "aromatherapy eucalyptus spa self care bath bomb stocking stuffer Stocking Stuffers Gift Ideas Self Care Christmas Gifts Beauty",
   "img": "https://m.media-amazon.com/images/I/81IUd4UXstL._AC_SL500_.jpg",
   "url": "https://amzn.to/4s4Hath"
@@ -58,6 +72,10 @@ window.PRODUCTS = [
   "cats": [
    "Home",
    "Gifts"
+  ],
+  "tags": [
+   "White elephant",
+   "Gift idea"
   ],
   "kw": "burrito blanket funny white elephant gag gift throw White Elephant Gag Gifts Funny Gifts Christmas Gifts Home & Kitchen",
   "img": "https://m.media-amazon.com/images/I/712kSZzoIRL._AC_SL500_.jpg",
@@ -72,6 +90,10 @@ window.PRODUCTS = [
    "Beauty",
    "Gifts"
   ],
+  "tags": [
+   "Stocking stuffer",
+   "Gift idea"
+  ],
   "kw": "brushes foundation eyeshadow makeup 18 piece Makeup Brushes Gifts For Her Stocking Stuffers Beauty Gifts Beauty",
   "img": "https://m.media-amazon.com/images/I/71ilmP5wLXL._AC_SL500_.jpg",
   "url": "https://amzn.to/4zqGz7z"
@@ -84,6 +106,7 @@ window.PRODUCTS = [
   "cats": [
    "Pets"
   ],
+  "tags": [],
   "kw": "shedding fur dog hair grooming brush sleekez Dog Mom Dog Hacks Shedding Pet Must Haves Pet Supplies",
   "img": "https://m.media-amazon.com/images/I/51EZk3LTzfL._AC_SL500_.jpg",
   "url": "https://amzn.to/3UhPycn"
@@ -97,6 +120,9 @@ window.PRODUCTS = [
    "Home",
    "Gifts"
   ],
+  "tags": [
+   "Gift idea"
+  ],
   "kw": "hoodie blanket sleeves cozy sherpa throw oversized Cozy Season Fall Vibes Wearable Blanket Gift Ideas Home & Kitchen",
   "img": "https://m.media-amazon.com/images/I/81iFzRNbTpL._AC_SL500_.jpg",
   "url": "https://amzn.to/47tvK97"
@@ -109,6 +135,7 @@ window.PRODUCTS = [
   "cats": [
    "Pets"
   ],
+  "tags": [],
   "kw": "dog eye comb grooming small dog cat crust Dog Grooming Pet Care Dog Mom Cat Mom Pet Supplies",
   "img": "https://m.media-amazon.com/images/I/61X6UW4F3JL._AC_SL500_.jpg",
   "url": "https://amzn.to/4zoOZfL"
@@ -122,6 +149,7 @@ window.PRODUCTS = [
    "Travel",
    "Tech"
   ],
+  "tags": [],
   "kw": "travel outlet usb charger cruise ship plug extension Cruise Tips Travel Must Haves Travel Hacks Cruise Life Electronics",
   "img": "https://m.media-amazon.com/images/I/61pAbrD-TML._AC_SL500_.jpg",
   "url": "https://amzn.to/475IuCy"
@@ -134,6 +162,7 @@ window.PRODUCTS = [
   "cats": [
    "Home"
   ],
+  "tags": [],
   "kw": "candle holder centerpiece fall decor table tray Fall Decor Home Decor Cozy Home Amazon Home Home Decor",
   "img": "https://m.media-amazon.com/images/I/612G6fJ-eTL._AC_SL500_.jpg",
   "url": "https://amzn.to/4zoOYZf"
@@ -146,6 +175,7 @@ window.PRODUCTS = [
   "cats": [
    "Beauty"
   ],
+  "tags": [],
   "kw": "curly hair hairbrush detangler wet hair brush Curly Hair Curly Girl Hair Care Beauty Finds Beauty",
   "img": "https://m.media-amazon.com/images/I/71As0ZTZEiL._AC_SL500_.jpg",
   "url": "https://amzn.to/4zrXW8g"
@@ -158,6 +188,9 @@ window.PRODUCTS = [
   "cats": [
    "Tech",
    "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
   ],
   "kw": "bluetooth speaker desk computer gadget pixel retro Desk Setup Tech Gadgets Gift Ideas Retro Electronics",
   "img": "https://m.media-amazon.com/images/I/717Wh8lpS2L._AC_SL500_.jpg",
@@ -172,6 +205,9 @@ window.PRODUCTS = [
    "Pets",
    "Gifts"
   ],
+  "tags": [
+   "Gift idea"
+  ],
   "kw": "cat toy puppet kitten play glove funny Cats Of Tik Tok Cat Toys Cat Mom Funny Cats Pet Supplies",
   "img": "https://m.media-amazon.com/images/I/713qfmktx+L._AC_SL500_.jpg",
   "url": "https://amzn.to/4yHDVuk"
@@ -184,6 +220,7 @@ window.PRODUCTS = [
   "cats": [
    "Home"
   ],
+  "tags": [],
   "kw": "steamer grout cleaning kitchen bathroom stove grease Clean Tok Cleaning Hacks Steam Cleaner Clean With Me Home & Kitchen",
   "img": "https://m.media-amazon.com/images/I/71C1Exm6lTL._AC_SL500_.jpg",
   "url": "https://amzn.to/4hwg6iZ"
@@ -197,6 +234,7 @@ window.PRODUCTS = [
    "Home",
    "Tech"
   ],
+  "tags": [],
   "kw": "label printer sticker organize bluetooth labels pantry Label Maker Organization Hacks Back To School Amazon Must Haves Office Products",
   "img": "https://m.media-amazon.com/images/I/71plOJQwFEL._AC_SL500_.jpg",
   "url": "https://amzn.to/4AWUkwA"
@@ -209,6 +247,7 @@ window.PRODUCTS = [
   "cats": [
    "Home"
   ],
+  "tags": [],
   "kw": "bathroom kitchen shelf storage cabinet rack organization Organize With Me Home Organization Bathroom Organization Amazon Home Home & Kitchen",
   "img": "https://m.media-amazon.com/images/I/81GB7MbJMvL._AC_SL500_.jpg",
   "url": "https://amzn.to/4ARHiA9"
@@ -221,6 +260,7 @@ window.PRODUCTS = [
   "cats": [
    "Beauty"
   ],
+  "tags": [],
   "kw": "face razor peach fuzz facial hair skincare glass skin shaver Dermaplaning Skin Care Glass Skin Beauty Hacks Beauty",
   "img": "https://m.media-amazon.com/images/I/81834DZAsNL._AC_SL500_.jpg",
   "url": "https://amzn.to/4i4Pm9o"
@@ -233,6 +273,7 @@ window.PRODUCTS = [
   "cats": [
    "Kitchen"
   ],
+  "tags": [],
   "kw": "vegetable chopper dicer slicer onion spiralizer meal prep cutter Kitchen Gadgets Meal Prep Tik Tok Made Me Buy It Amazon Kitchen Kitchen",
   "img": "https://m.media-amazon.com/images/I/81GZZyozv-L._AC_SL500_.jpg",
   "url": "https://amzn.to/3VlO4y9"
@@ -245,6 +286,7 @@ window.PRODUCTS = [
   "cats": [
    "Pets"
   ],
+  "tags": [],
   "kw": "dog clipper grooming kit pet hair vacuum shedding trimmer haircut fur Dog Mom Dog Grooming Pet Hacks Tik Tok Made Me Buy It Pet Supplies",
   "img": "https://m.media-amazon.com/images/I/71gMbCJxeZL._AC_SL500_.jpg",
   "url": "https://amzn.to/4i6LYe7"
