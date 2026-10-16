@@ -47,23 +47,6 @@ window.PRODUCTS = [
   "url": "https://amzn.to/4hO6JLE"
  },
  {
-  "id": "20261016-mkg-rechargeable-hand-warmers-2",
-  "date": "2026-10-16",
-  "short": "Rechargeable Hand Warmers",
-  "name": "MKG Rechargeable Hand Warmers 2 Pack",
-  "cats": [
-   "Gifts",
-   "Travel"
-  ],
-  "tags": [
-   "Stocking stuffer",
-   "Gift idea"
-  ],
-  "kw": "hand warmer electric heater winter cold stocking stuffer Winter Must Haves Hand Warmers Stocking Stuffers Christmas Gifts Sports & Outdoors",
-  "img": "https://m.media-amazon.com/images/I/71jnTCT7gxL._AC_SL500_.jpg",
-  "url": "https://amzn.to/4dJ4lU2"
- },
- {
   "id": "20261016-light-up-headphone-stand",
   "date": "2026-10-16",
   "short": "Light Up Headphone Stand",
@@ -78,6 +61,23 @@ window.PRODUCTS = [
   "kw": "gamer gift headset holder rgb led desk setup Gamer Gifts Desk Setup Gifts For Him Christmas Gifts Home Decor",
   "img": "https://m.media-amazon.com/images/I/718Vr8HxLPL._AC_SL500_.jpg",
   "url": "https://amzn.to/4ypYJ8D"
+ },
+ {
+  "id": "20261016-gaiatop-electric-hand-warmers-rechargeable",
+  "date": "2026-10-16",
+  "short": "Rechargeable Hand Warmers",
+  "name": "Gaiatop Electric Hand Warmers Rechargeable",
+  "cats": [
+   "Gifts",
+   "Travel"
+  ],
+  "tags": [
+   "Stocking stuffer",
+   "Gift idea"
+  ],
+  "kw": "hand warmer electric heater winter cold stocking stuffer Winter Must Haves Hand Warmers Stocking Stuffers Christmas Gifts Sports & Outdoors",
+  "img": "https://m.media-amazon.com/images/I/71C5sTyBqPL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4zwBQkL"
  },
  {
   "id": "20261016-family-christmas-pajamas-matching-set",
