@@ -1,5 +1,147 @@
 window.PRODUCTS = [
  {
+  "id": "20261016-syhln-airplane-launcher-toy-3",
+  "date": "2026-10-16",
+  "short": "Airplane Launcher Toy",
+  "name": "SYHLN Airplane Launcher Toy 3 Pack",
+  "cats": [
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "kids toy plane launcher boys outdoor foam glider Gifts For Kids Kids Toys Christmas Gifts Boy Gifts Toys",
+  "img": "https://m.media-amazon.com/images/I/71gZxEAajOL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4ynvALa"
+ },
+ {
+  "id": "20261016-showkoo-wide-open-makeup-bag",
+  "date": "2026-10-16",
+  "short": "Wide Open Makeup Bag",
+  "name": "SHOWKOO Wide Open Makeup Bag",
+  "cats": [
+   "Beauty",
+   "Travel"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "cosmetic bag travel makeup case bow organizer Gifts For Her Makeup Bag Travel Essentials Christmas Gifts Beauty",
+  "img": "https://m.media-amazon.com/images/I/81RiUYDUslL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4egnpcp"
+ },
+ {
+  "id": "20261016-mom-and-daughter-figurine-gift",
+  "date": "2026-10-16",
+  "short": "Mom & Daughter Figurine",
+  "name": "Mom and Daughter Figurine Gift",
+  "cats": [
+   "Gifts",
+   "Home"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "mom gift mother daughter statue keepsake love you Gifts For Mom Mom Gifts Christmas Gifts Keepsake Home Decor",
+  "img": "https://m.media-amazon.com/images/I/61Dnb1IBGgL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4hO6JLE"
+ },
+ {
+  "id": "20261016-mkg-rechargeable-hand-warmers-2",
+  "date": "2026-10-16",
+  "short": "Rechargeable Hand Warmers",
+  "name": "MKG Rechargeable Hand Warmers 2 Pack",
+  "cats": [
+   "Gifts",
+   "Travel"
+  ],
+  "tags": [
+   "Stocking stuffer",
+   "Gift idea"
+  ],
+  "kw": "hand warmer electric heater winter cold stocking stuffer Winter Must Haves Hand Warmers Stocking Stuffers Christmas Gifts Sports & Outdoors",
+  "img": "https://m.media-amazon.com/images/I/71jnTCT7gxL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4dJ4lU2"
+ },
+ {
+  "id": "20261016-light-up-headphone-stand",
+  "date": "2026-10-16",
+  "short": "Light Up Headphone Stand",
+  "name": "Light Up Headphone Stand",
+  "cats": [
+   "Tech",
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "gamer gift headset holder rgb led desk setup Gamer Gifts Desk Setup Gifts For Him Christmas Gifts Home Decor",
+  "img": "https://m.media-amazon.com/images/I/718Vr8HxLPL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4ypYJ8D"
+ },
+ {
+  "id": "20261016-family-christmas-pajamas-matching-set",
+  "date": "2026-10-16",
+  "short": "Family Christmas Pajamas",
+  "name": "Family Christmas Pajamas Matching Set",
+  "cats": [
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "matching pajamas pjs xmas plaid holiday family photos kids Christmas Pajamas Family Christmas Matching Pajamas Holiday Vibes Clothing",
+  "img": "https://m.media-amazon.com/images/I/714QRPdEOWL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4sbWq7J"
+ },
+ {
+  "id": "20261016-cotsoco-mini-massage-gun-with",
+  "date": "2026-10-16",
+  "short": "Mini Massage Gun",
+  "name": "cotsoco Mini Massage Gun with Heat",
+  "cats": [
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "massage gun muscle recovery heat cold dad gift workout Gifts For Dad Gifts For Him Massage Gun Christmas Gifts Health & Household",
+  "img": "https://m.media-amazon.com/images/I/81IAbQBsq9L._AC_SL500_.jpg",
+  "url": "https://amzn.to/4ymmNJC"
+ },
+ {
+  "id": "20261016-comfier-electric-scalp-massager",
+  "date": "2026-10-16",
+  "short": "Electric Scalp Massager",
+  "name": "COMFIER Electric Scalp Massager",
+  "cats": [
+   "Beauty",
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "head massager scalp spa hair relax self care Self Care Scalp Massager Gifts For Her Christmas Gifts Health & Household",
+  "img": "https://m.media-amazon.com/images/I/610SRuSMGJL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4srw5Tr"
+ },
+ {
+  "id": "20261016-candle-warmer-lamp-with-timer",
+  "date": "2026-10-16",
+  "short": "Candle Warmer Lamp",
+  "name": "Candle Warmer Lamp with Timer",
+  "cats": [
+   "Home",
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "candle lamp wax warmer no flame timer dimmer cozy decor Cozy Home Candle Warmer Gift Ideas Christmas Gifts Home Decor",
+  "img": "https://m.media-amazon.com/images/I/61bqdD3w0SL._AC_SL500_.jpg",
+  "url": "https://amzn.to/3W91M7G"
+ },
+ {
   "id": "20261012-vlando-viaggio-travel-jewelry-case",
   "date": "2026-10-12",
   "short": "Travel Jewelry Case",
