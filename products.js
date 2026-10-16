@@ -1,5 +1,163 @@
 window.PRODUCTS = [
  {
+  "id": "20261017-yuswko-handheld-milk-frother-wand",
+  "date": "2026-10-17",
+  "short": "Handheld Milk Frother",
+  "name": "YUSWKO Handheld Milk Frother Wand",
+  "cats": [
+   "Kitchen",
+   "Gifts"
+  ],
+  "tags": [
+   "Stocking stuffer",
+   "Gift idea"
+  ],
+  "kw": "coffee latte foam whisk rechargeable stocking stuffer Coffee Tok Coffee Lover Stocking Stuffers Christmas Gifts Kitchen",
+  "img": "https://m.media-amazon.com/images/I/61MiRYg1+rL._AC_SL500_.jpg",
+  "url": "https://amzn.to/3WeRZNr"
+ },
+ {
+  "id": "20261017-skil-twist-rechargeable-screwdriver",
+  "date": "2026-10-17",
+  "short": "Rechargeable Screwdriver",
+  "name": "SKIL Twist Rechargeable Screwdriver",
+  "cats": [
+   "Home",
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "skil electric screwdriver tool dad gift diy Gifts For Dad Gifts For Him Home Improvement Christmas Gifts Tools",
+  "img": "https://m.media-amazon.com/images/I/71QTQUWzejL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4yuxiL1"
+ },
+ {
+  "id": "20261017-sheglam-automatic-curling-iron",
+  "date": "2026-10-17",
+  "short": "Automatic Curling Iron",
+  "name": "SHEGLAM Automatic Curling Iron",
+  "cats": [
+   "Beauty",
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "sheglam auto curler hair curls rotating Hair Tok Curling Iron Gifts For Her Christmas Gifts Beauty",
+  "img": "https://m.media-amazon.com/images/I/71inZf2tXTL._AC_SL500_.jpg",
+  "url": "https://amzn.to/47jtqkV"
+ },
+ {
+  "id": "20261017-rubbermaid-reveal-cordless-power-scrubber",
+  "date": "2026-10-17",
+  "short": "Cordless Power Scrubber",
+  "name": "Rubbermaid Reveal Cordless Power Scrubber",
+  "cats": [
+   "Home"
+  ],
+  "tags": [],
+  "kw": "electric scrub brush cleaning bathroom tub grout sink Clean Tok Cleaning Hacks Clean With Me Amazon Home Home & Kitchen",
+  "img": "https://m.media-amazon.com/images/I/61N4Gq3h6iL._AC_SL500_.jpg",
+  "url": "https://amzn.to/3UqCPEl"
+ },
+ {
+  "id": "20261017-revlon-one-step-volumizer-hair",
+  "date": "2026-10-17",
+  "short": "One-Step Hair Dryer Brush",
+  "name": "REVLON One-Step Volumizer Hair Dryer Brush",
+  "cats": [
+   "Beauty",
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "revlon blowout hair dryer brush volumizer styler Hair Tok Blowout At Home Gifts For Her Christmas Gifts Beauty",
+  "img": "https://m.media-amazon.com/images/I/61SrWfdHa1L._AC_SL500_.jpg",
+  "url": "https://amzn.to/4ednKwu"
+ },
+ {
+  "id": "20261017-pritech-facial-cleansing-brush",
+  "date": "2026-10-17",
+  "short": "Facial Cleansing Brush",
+  "name": "PRITECH Facial Cleansing Brush",
+  "cats": [
+   "Beauty",
+   "Gifts"
+  ],
+  "tags": [
+   "Stocking stuffer",
+   "Gift idea"
+  ],
+  "kw": "face scrubber silicone skin care exfoliate self care Skin Care Routine Self Care Stocking Stuffers Gifts For Her Beauty",
+  "img": "https://m.media-amazon.com/images/I/615YjrhJpAL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4yVvxaP"
+ },
+ {
+  "id": "20261017-one-touch-electric-can-opener",
+  "date": "2026-10-17",
+  "short": "Electric Can Opener",
+  "name": "One Touch Electric Can Opener",
+  "cats": [
+   "Kitchen",
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "automatic can opener hands free seniors arthritis grandparents Kitchen Gadgets Gifts For Mom Gifts For Grandparents Christmas Gifts Kitchen",
+  "img": "https://m.media-amazon.com/images/I/71d+2OskykL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4dEL8Tt"
+ },
+ {
+  "id": "20261017-nekteck-shiatsu-neck-massager-with",
+  "date": "2026-10-17",
+  "short": "Shiatsu Neck Massager",
+  "name": "Nekteck Shiatsu Neck Massager with Heat",
+  "cats": [
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "nekteck neck back massager heat mom gift relax Gifts For Mom Self Care Gifts For Her Christmas Gifts Health & Household",
+  "img": "https://m.media-amazon.com/images/I/71i9CgTPU0L._AC_SL500_.jpg",
+  "url": "https://amzn.to/4yU9gda"
+ },
+ {
+  "id": "20261017-melodysusie-cordless-nail-drill",
+  "date": "2026-10-17",
+  "short": "Cordless Nail Drill",
+  "name": "MelodySusie Cordless Nail Drill",
+  "cats": [
+   "Beauty",
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "nail file manicure gel diy nails electric Nail Tok D I Y Nails Gifts For Her Christmas Gifts Beauty",
+  "img": "https://m.media-amazon.com/images/I/61FEQEjLNjL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4dI2NJW"
+ },
+ {
+  "id": "20261017-kids-lcd-writing-tablet-10",
+  "date": "2026-10-17",
+  "short": "Kids LCD Writing Tablet",
+  "name": "Kids LCD Writing Tablet 10 Inch",
+  "cats": [
+   "Gifts"
+  ],
+  "tags": [
+   "Stocking stuffer",
+   "Gift idea"
+  ],
+  "kw": "drawing tablet doodle board kids toy learning Gifts For Kids Kids Toys Stocking Stuffers Christmas Gifts Toys",
+  "img": "https://m.media-amazon.com/images/I/81SZ8loZ0UL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4saWyUY"
+ },
+ {
   "id": "20261016-syhln-airplane-launcher-toy-3",
   "date": "2026-10-16",
   "short": "Airplane Launcher Toy",
