@@ -1,22 +1,5 @@
 window.PRODUCTS = [
  {
-  "id": "20261017-yuswko-handheld-milk-frother-wand",
-  "date": "2026-10-17",
-  "short": "Handheld Milk Frother",
-  "name": "YUSWKO Handheld Milk Frother Wand",
-  "cats": [
-   "Kitchen",
-   "Gifts"
-  ],
-  "tags": [
-   "Stocking stuffer",
-   "Gift idea"
-  ],
-  "kw": "coffee latte foam whisk rechargeable stocking stuffer Coffee Tok Coffee Lover Stocking Stuffers Christmas Gifts Kitchen",
-  "img": "https://m.media-amazon.com/images/I/61MiRYg1+rL._AC_SL500_.jpg",
-  "url": "https://amzn.to/3WeRZNr"
- },
- {
   "id": "20261017-skil-twist-rechargeable-screwdriver",
   "date": "2026-10-17",
   "short": "Rechargeable Screwdriver",
@@ -93,22 +76,6 @@ window.PRODUCTS = [
   "kw": "face scrubber silicone skin care exfoliate self care Skin Care Routine Self Care Stocking Stuffers Gifts For Her Beauty",
   "img": "https://m.media-amazon.com/images/I/615YjrhJpAL._AC_SL500_.jpg",
   "url": "https://amzn.to/4yVvxaP"
- },
- {
-  "id": "20261017-one-touch-electric-can-opener",
-  "date": "2026-10-17",
-  "short": "Electric Can Opener",
-  "name": "One Touch Electric Can Opener",
-  "cats": [
-   "Kitchen",
-   "Gifts"
-  ],
-  "tags": [
-   "Gift idea"
-  ],
-  "kw": "automatic can opener hands free seniors arthritis grandparents Kitchen Gadgets Gifts For Mom Gifts For Grandparents Christmas Gifts Kitchen",
-  "img": "https://m.media-amazon.com/images/I/71d+2OskykL._AC_SL500_.jpg",
-  "url": "https://amzn.to/4dEL8Tt"
  },
  {
   "id": "20261017-nekteck-shiatsu-neck-massager-with",
