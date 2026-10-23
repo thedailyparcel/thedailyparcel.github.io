@@ -1,5 +1,172 @@
 window.PRODUCTS = [
  {
+  "id": "20261023-trideer-yoga-exercise-ball-with",
+  "date": "2026-10-23",
+  "short": "Yoga Exercise Ball",
+  "name": "Trideer Yoga Exercise Ball with Pump",
+  "cats": [
+   "Home"
+  ],
+  "tags": [],
+  "kw": "trideer stability ball workout pilates fitness Home Workout Fitness Motivation New Year Goals Amazon Fitness Sports",
+  "img": "https://m.media-amazon.com/images/I/61XRN-EDViL._AC_SL500_.jpg",
+  "url": "https://amzn.to/48g6FhX"
+ },
+ {
+  "id": "20261023-neutrogena-makeup-remover-wipes-2",
+  "date": "2026-10-23",
+  "short": "Makeup Remover Wipes",
+  "name": "Neutrogena Makeup Remover Wipes 2 Pack",
+  "cats": [
+   "Beauty",
+   "Travel"
+  ],
+  "tags": [
+   "Stocking stuffer"
+  ],
+  "kw": "neutrogena micellar wipes waterproof mascara Makeup Remover Skin Care Travel Essentials Stocking Stuffers Beauty",
+  "img": "https://m.media-amazon.com/images/I/71JnbwZyFoL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4sDU169"
+ },
+ {
+  "id": "20261023-mighty-patch-original-pimple-patches",
+  "date": "2026-10-23",
+  "short": "Pimple Patches",
+  "name": "Mighty Patch Original Pimple Patches",
+  "cats": [
+   "Beauty"
+  ],
+  "tags": [
+   "Stocking stuffer"
+  ],
+  "kw": "mighty patch acne hydrocolloid zit sticker stocking stuffer Skin Care Acne Tips Stocking Stuffers Self Care Beauty",
+  "img": "https://m.media-amazon.com/images/I/610kB1nyT3L._AC_SL500_.jpg",
+  "url": "https://amzn.to/4shsCXg"
+ },
+ {
+  "id": "20261023-medicube-zero-pore-pad-toner",
+  "date": "2026-10-23",
+  "short": "Toner Pads",
+  "name": "medicube Zero Pore Pad Toner Pads",
+  "cats": [
+   "Beauty"
+  ],
+  "tags": [
+   "Stocking stuffer"
+  ],
+  "kw": "medicube zero pore pad exfoliating k-beauty skincare K Beauty Skin Care Medicube Stocking Stuffers Beauty",
+  "img": "https://m.media-amazon.com/images/I/614H0CbA5SL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4yv6REN"
+ },
+ {
+  "id": "20261023-medicube-wrapping-mask-collagen-peel",
+  "date": "2026-10-23",
+  "short": "Peel-Off Wrapping Mask",
+  "name": "medicube Wrapping Mask Collagen Peel Off",
+  "cats": [
+   "Beauty",
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "medicube collagen overnight mask k-beauty glass skin peel off K Beauty Skin Care Routine Glass Skin Gifts For Her Beauty",
+  "img": "https://m.media-amazon.com/images/I/61W9NIAmN+L._AC_SL500_.jpg",
+  "url": "https://amzn.to/48bXbV0"
+ },
+ {
+  "id": "20261023-kidee-fabric-shaver-lint-remover",
+  "date": "2026-10-23",
+  "short": "Fabric Shaver",
+  "name": "KIDEE Fabric Shaver Lint Remover",
+  "cats": [
+   "Home"
+  ],
+  "tags": [
+   "Stocking stuffer"
+  ],
+  "kw": "lint remover sweater defuzzer pilling Laundry Hacks Cleaning Hacks Stocking Stuffers Amazon Home Health & Household",
+  "img": "https://m.media-amazon.com/images/I/713fDgV-slL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4yyeFWB"
+ },
+ {
+  "id": "20261023-cosrx-snail-mucin-96-essence",
+  "date": "2026-10-23",
+  "short": "Snail Mucin Essence",
+  "name": "COSRX Snail Mucin 96 Essence",
+  "cats": [
+   "Beauty",
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "cosrx snail 96 serum k-beauty hydrating glass skin K Beauty Glass Skin Skin Care Routine Gifts For Her Beauty",
+  "img": "https://m.media-amazon.com/images/I/61fkFcacrWL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4siyxv8"
+ },
+ {
+  "id": "20261023-chemical-guys-total-interior-cleaner",
+  "date": "2026-10-23",
+  "short": "Car Interior Cleaner",
+  "name": "Chemical Guys Total Interior Cleaner",
+  "cats": [
+   "Home",
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "chemical guys dashboard car detailing interior spray Car Cleaning Car Detailing Car Hacks Gifts For Him Automotive",
+  "img": "https://m.media-amazon.com/images/I/71e6JTfk-lL._AC_SL500_.jpg",
+  "url": "https://amzn.to/3UMuStf"
+ },
+ {
+  "id": "20261023-air-fryer-liners-125-pack",
+  "date": "2026-10-23",
+  "short": "Air Fryer Liners",
+  "name": "Air Fryer Liners 125 Pack",
+  "cats": [
+   "Kitchen"
+  ],
+  "tags": [],
+  "kw": "parchment paper liners disposable air fryer Air Fryer Kitchen Hacks Air Fryer Recipes Amazon Kitchen Kitchen",
+  "img": "https://m.media-amazon.com/images/I/710lcyAkSSL._AC_SL500_.jpg",
+  "url": "https://amzn.to/3VULsrf"
+ },
+ {
+  "id": "20261023-afmat-electric-pencil-sharpener",
+  "date": "2026-10-23",
+  "short": "Electric Pencil Sharpener",
+  "name": "AFMAT Electric Pencil Sharpener",
+  "cats": [
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "teacher classroom automatic pencil sharpener kids Teacher Gifts Teachers Of Tik Tok Classroom Must Haves Back To School Office",
+  "img": "https://m.media-amazon.com/images/I/71le2FhMwTL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4kch6u8"
+ },
+ {
+  "id": "20261017-yuswko-handheld-milk-frother-wand",
+  "date": "2026-10-17",
+  "short": "Handheld Milk Frother",
+  "name": "YUSWKO Handheld Milk Frother Wand",
+  "cats": [
+   "Kitchen",
+   "Gifts"
+  ],
+  "tags": [
+   "Stocking stuffer",
+   "Gift idea"
+  ],
+  "kw": "coffee latte foam whisk rechargeable stocking stuffer Coffee Tok Coffee Lover Stocking Stuffers Christmas Gifts Kitchen",
+  "img": "https://m.media-amazon.com/images/I/61MiRYg1+rL._AC_SL500_.jpg",
+  "url": "https://amzn.to/3WeRZNr"
+ },
+ {
   "id": "20261017-skil-twist-rechargeable-screwdriver",
   "date": "2026-10-17",
   "short": "Rechargeable Screwdriver",
@@ -76,6 +243,22 @@ window.PRODUCTS = [
   "kw": "face scrubber silicone skin care exfoliate self care Skin Care Routine Self Care Stocking Stuffers Gifts For Her Beauty",
   "img": "https://m.media-amazon.com/images/I/615YjrhJpAL._AC_SL500_.jpg",
   "url": "https://amzn.to/4yVvxaP"
+ },
+ {
+  "id": "20261017-one-touch-electric-can-opener",
+  "date": "2026-10-17",
+  "short": "Electric Can Opener",
+  "name": "One Touch Electric Can Opener",
+  "cats": [
+   "Kitchen",
+   "Gifts"
+  ],
+  "tags": [
+   "Gift idea"
+  ],
+  "kw": "automatic can opener hands free seniors arthritis grandparents Kitchen Gadgets Gifts For Mom Gifts For Grandparents Christmas Gifts Kitchen",
+  "img": "https://m.media-amazon.com/images/I/71d+2OskykL._AC_SL500_.jpg",
+  "url": "https://amzn.to/4dEL8Tt"
  },
  {
   "id": "20261017-nekteck-shiatsu-neck-massager-with",
